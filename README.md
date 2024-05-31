@@ -4,6 +4,4 @@
 
 ### Sub Heading
 
-<a href='#">Test link</a>
-
 ## Heading 2
